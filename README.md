@@ -45,12 +45,12 @@ https://youtu.be/hCvobtc33bc
 
 # 본 Project를 위한 Requirments
 1. pip
-2. tensorflow -> pip install tensorflow-gpu
+2. tensorflow
 3. tensorboard
 4. Keras 
 5. opencv-python
 6. numpy
-7. Pillow
+7. Pillow 
 8. tqdm
 
 # Requirments 설치 방법
@@ -60,7 +60,8 @@ https://youtu.be/hCvobtc33bc
 
 # .ipynb file을 .py로 바꾸는 방법
 1. CMD or Power Shell을 실행
-2. jupyter nbconvert --to script [NOTE_BOOK_FILE_NAME].ipynb 입력
+2. jupyter nbconvert --to script [file name].ipynb 입력
+     run.ipynb, tetris.ipynb, logs.ipynb, dqn_agent.ipynb 총 4번 수행
 
 # 저장된 log data를 TensorBoard를 통해 분석하는 방법
 1. CMD or Power Shell을 실행
