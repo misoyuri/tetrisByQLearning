@@ -90,3 +90,7 @@ https://youtu.be/hCvobtc33bc
 # 결론
 한정적인 episode(반복 횟수) 내에서 Max Score를 가장 크게 하고 싶다면 batch size를 작게하고 epoch를 크게 설정하면 된다.
 하지만 batch size가 크고 epoch가 적당한 model에 비해서 안정성이 떨어지기 때문에 score의 차이가 심하다.
+
+
+
+<출처> https://github.com/nuno-faria/tetris-ai
