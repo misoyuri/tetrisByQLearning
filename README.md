@@ -63,6 +63,11 @@ https://youtu.be/hCvobtc33bc
 2. jupyter nbconvert --to script [file name].ipynb 입력
      run.ipynb, tetris.ipynb, logs.ipynb, dqn_agent.ipynb 총 4번 수행
 
+# 실행방법
+1. CMD or Power Shell에서 python run.py를 입력
+2. jupyter note북에서 rus.ipynb를 실행
+     위 두 방법중 하나를 하면 됩니다.
+
 # 저장된 log data를 TensorBoard를 통해 분석하는 방법
 1. CMD or Power Shell을 실행
 2. log가 저장되어있는 logs 폴더로 이동 (cd logs)
