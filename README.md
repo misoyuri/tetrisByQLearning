@@ -43,7 +43,7 @@ https://youtu.be/hCvobtc33bc
 ![캡처](https://user-images.githubusercontent.com/28642496/69955757-c0cded00-1541-11ea-9d8b-0b06df8759ca.JPG)
 
 
-# 본 Project를 위한 Requirments
+# 본 Project를 위한 Requirements
 1. pip
 2. tensorflow (tensorflow-gpu==1.14.0)
 3. tensorboard (tensorboard==1.14.0)
@@ -53,7 +53,7 @@ https://youtu.be/hCvobtc33bc
 7. Pillow (Pillow==5.4.1)
 8. tqdm (tqdm==4.31.1)
 
-# Requirments 설치 방법
+# Requirements 설치 방법
 1. CMD or Power Shell을 실행
 2. pip install --upgrade pip
 3. pip install  'Requirment Name'
