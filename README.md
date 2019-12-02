@@ -45,18 +45,19 @@ https://youtu.be/hCvobtc33bc
 
 # 본 Project를 위한 Requirments
 1. pip
-2. tensorflow
-3. tensorboard
-4. Keras 
-5. opencv-python
-6. numpy
-7. Pillow 
-8. tqdm
+2. tensorflow (tensorflow-gpu==1.14.0)
+3. tensorboard (tensorboard==1.14.0)
+4. Keras (Keras==2.2.4)
+5. opencv-python (opencv-python==4.1.0.25)
+6. numpy (numpy==1.16.4)
+7. Pillow (Pillow==5.4.1)
+8. tqdm (tqdm==4.31.1)
 
 # Requirments 설치 방법
 1. CMD or Power Shell을 실행
 2. pip install --upgrade pip
 3. pip install  'Requirment Name'
+ * 혹시나 pip로 설치시 error가 발생한다면 version에 맞는 program을 설치해주세요.
 
 # .ipynb file을 .py로 바꾸는 방법
 1. CMD or Power Shell을 실행
