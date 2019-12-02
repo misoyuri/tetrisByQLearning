@@ -56,7 +56,7 @@ https://youtu.be/hCvobtc33bc
 # Requirments 설치 방법
 1. CMD or Power Shell을 실행
 2. pip install --upgrade pip
-3. pip install <Requirment>
+3. pip install  'Requirment Name'
 
 # .ipynb file을 .py로 바꾸는 방법
 1. CMD or Power Shell을 실행
